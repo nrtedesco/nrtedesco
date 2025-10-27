@@ -11,7 +11,7 @@ I'm currently...
 In my free time, I enjoy... 
 - 🏋🏻 exercising $\rightarrow$ I was a member of Pitt's club powerlifting team, and still hit the gym on a regular basis. 
 - 🎹 playing music $\rightarrow$ I played the guitar growing up, picked up the drums in college, and have now fully switched over to piano. 
-- ♟️ playing chess $\rightarrow$ challenge me @tee-dawg on chess.com. 
+- ♟️ playing chess $\rightarrow$ challenge me on chess.com @tee-dawg. 
 
 Feel free to connect with me on LinkedIn or reach out via email!
 
