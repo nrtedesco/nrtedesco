@@ -58,15 +58,6 @@ I'm a Data Scientist and Machine Learning Engineer focused on designing, contain
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrtedesco&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="Nicholas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrtedesco&theme=radical&hide_border=true" alt="Nicholas's GitHub Streak" width="48%" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
