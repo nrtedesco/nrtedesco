@@ -1,4 +1,4 @@
-# Hi there! I'm Nick Tedesco 👋
+# 👋 Hi there! I'm Nick Tedesco
 
 <div align="center">
   <a href="https://github.com/nrtedesco">
@@ -58,7 +58,7 @@ I'm a Data Scientist and Machine Learning Engineer focused on designing, contain
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:nicholas.r.tedesco@gmail.com">
