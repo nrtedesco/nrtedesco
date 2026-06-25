@@ -8,6 +8,8 @@
 
 I'm a Data Scientist and Machine Learning Engineer focused on designing, containerizing, and deploying production-ready ML systems. 
 
+---
+
 ### 🚀 What I Do
 * **End-to-End ML Systems:** Design and deploy scalable machine learning and automated ETL pipelines from prototype to production using Pytest, MLflow, and Databricks.
 * **Applied Data Science & Leadership:** Lead clustered randomized controlled trials and deploy transformer-based NLP models to evaluate marketing interventions and deliver actionable insights to sales managers. 
